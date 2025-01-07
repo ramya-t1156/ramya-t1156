@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ramya T  
 
-- 🌟 I'm passionate about Data Science, AI, and Full-Stack Development.  
+- 🌟 I'm passionate about Data Science and other technologies.  
 - 🌱 Currently exploring Java, DSA, and data science tools.  
-- 💞️ Open to collaborating on AI, ML, and web development projects.  
+- 💞️ Open to collaborating.  
 - 😄 Pronouns: She/Her  
 - 📫 Reach me at:  
   - [GitHub](https://github.com/ramya-t1156)  
