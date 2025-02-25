@@ -3,7 +3,7 @@
 - 🌟 I'm passionate about Data Science and other technologies.  
 - 🌱 Currently exploring Java, DSA, Web development and data science tools.  
 - 💞️ Open to collaborating.  
-- 😄 Pronouns: She/Her  
+- 😄 Pronouns: She/Her   
 - 📫 Reach me at:  
   - [GitHub](https://github.com/ramya-t1156)  
   - [LinkedIn](https://www.linkedin.com/in/ramya-t-90a925291)  
