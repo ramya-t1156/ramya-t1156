@@ -2,7 +2,7 @@
 
 - 🌟 I'm passionate about Spring Boot and other technologies.  
 - 🌱 Currently exploring Java, DSA and Full Stack Development and Spring Boot Development.  
-- 💞️ Open to collaborating.  
+- 🌟 Open to collaborating.  
 - 😄 Pronouns: She/Her   
 - 📫 Reach me at:  
   - [GitHub](https://github.com/ramya-t1156)  
