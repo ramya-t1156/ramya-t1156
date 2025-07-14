@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramya T
 
-- 🌟 I'm passionate about Data Science and other technologies.  
+- 🌟 I'm passionate about Spring Boot and other technologies.  
 - 🌱 Currently exploring Java, DSA and Full Stack Development and Spring Boot Development.  
 - 💞️ Open to collaborating.  
 - 😄 Pronouns: She/Her   
